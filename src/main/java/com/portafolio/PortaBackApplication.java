@@ -1,0 +1,13 @@
+package com.portafolio;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PortaBackApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PortaBackApplication.class, args);
+	}
+
+}
